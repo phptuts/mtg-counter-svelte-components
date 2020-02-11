@@ -19,11 +19,19 @@
   .player {
     flex-grow: 1;
   }
-  .minus {
+  .plus {
     background-color: seagreen;
   }
-  .plus {
+  .minus {
     background-color: brown;
+  }
+  button {
+    font-size: 20px;
+    border-radius: 3px;
+    width: 40px;
+    color: white;
+    font-family: monospace;
+    font-weight: bold;
   }
 </style>
 

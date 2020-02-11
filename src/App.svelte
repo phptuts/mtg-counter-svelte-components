@@ -41,13 +41,15 @@
     display: flex;
   }
 
-  button#start_game {
+  button {
     display: block;
     width: 100%;
     margin-top: 20px;
     border: solid salmon 1px;
     background-color: sandybrown;
     color: rgb(61, 56, 56);
+    font-size: 20px;
+    border-radius: 3px;
   }
 </style>
 
