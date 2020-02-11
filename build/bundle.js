@@ -477,11 +477,11 @@ var app = (function () {
     			button = element("button");
     			button.textContent = "Start Game";
     			attr(div0, "id", "controls-container");
-    			attr(div0, "class", "svelte-a5s4kx");
+    			attr(div0, "class", "svelte-47img0");
     			attr(button, "id", "start_game");
-    			attr(button, "class", "svelte-a5s4kx");
+    			attr(button, "class", "svelte-47img0");
     			attr(div1, "id", "container");
-    			attr(div1, "class", "svelte-a5s4kx");
+    			attr(div1, "class", "svelte-47img0");
     		},
     		m(target, anchor) {
     			insert(target, div1, anchor);
