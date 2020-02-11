@@ -71,5 +71,5 @@
       points={bluePlayerPoints} />
   </div>
 
-  <button on:click={startGame} id="start_game">Start Game</button>
+  <button on:click={startGame} >Start Game</button>
 </div>
